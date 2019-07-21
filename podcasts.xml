@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>Jul 21, 2019 5:18:21 PM</dateCreated>
+    <dateModified>Jul 21, 2019 5:18:21 PM</dateModified>
+  </head>
+  <body>
+    <outline text="Darknet Diaries" type="rss" xmlUrl="http://feeds.megaphone.fm/ADV1535088479" htmlUrl="https://darknetdiaries.com/" />
+    <outline text="HackerRank Radio" type="rss" xmlUrl="https://blog.hackerrank.com/feed/podcast/" htmlUrl="https://blog.hackerrank.com" />
+    <outline text="Hanselminutes - Fresh Talk and Tech for Developers" type="rss" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl="https://www.hanselminutes.com" />
+    <outline text="How I Built This with Guy Raz" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510313" htmlUrl="http://www.npr.org/series/490248027/how-i-built-this" />
+    <outline text="How to Be Awesome at Your Job" type="rss" xmlUrl="http://awesomeatyourjob.libsyn.com/rss" htmlUrl="https://AwesomeAtYourJob.com" />
+    <outline text="Masters of Scale with Reid Hoffman" type="rss" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl="http://www.mastersofscale.com" />
+    <outline text="Planet Money" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510289" htmlUrl="https://www.npr.org/planetmoney" />
+    <outline text="Revisionist History" type="rss" xmlUrl="https://feeds.megaphone.fm/revisionisthistory" htmlUrl="http://revisionisthistory.com/" />
+    <outline text="Sawbones: A Marital Tour of Misguided Medicine" type="rss" xmlUrl="http://sawbones.libsyn.com/rss" htmlUrl="http://sawbones.libsyn.com" />
+    <outline text="Software Engineering Daily" type="rss" xmlUrl="https://softwareengineeringdaily.com/feed/podcast" htmlUrl="https://softwareengineeringdaily.com/archives/" />
+    <outline text="Swindled" type="rss" xmlUrl="https://feeds.megaphone.fm/ADL8288293115" htmlUrl="http://www.swindledpodcast.com" />
+    <outline text="Syntax - Tasty Web Development Treats" type="rss" xmlUrl="https://feed.syntax.fm/rss" htmlUrl="https://syntax.fm" />
+    <outline text="TED Radio Hour" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/programs/ted-radio-hour/" />
+    <outline text="Teklanta" type="rss" xmlUrl="https://www.podsheets.com/p/teklanta/rss.xml" htmlUrl="https://www.podsheets.com/p/teklanta/" />
+    <outline text="The Diff: A Podcast from Facebook Open Source" type="rss" xmlUrl="https://anchor.fm/s/953b200/podcast/rss" htmlUrl="https://anchor.fm/thediff" />
+    <outline text="The Indie Hackers Podcast" type="rss" xmlUrl="http://feeds.backtracks.fm/feeds/indiehackers/indiehackers/feed.xml" htmlUrl="https://www.indiehackers.com" />
+    <outline text="Twenty Thousand Hertz" type="rss" xmlUrl="http://feeds.megaphone.fm/20k" htmlUrl="http://www.20k.org" />
+  </body>
+</opml>
