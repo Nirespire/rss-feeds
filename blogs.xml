@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Sanjay subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Blogs" title="Blogs">
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="https://www.blog.google/"/>
+            <outline type="rss" text="Overreacted" title="Overreacted" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+        </outline>
+    </body>
+</opml>
